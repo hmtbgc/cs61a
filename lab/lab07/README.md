@@ -1,2 +1,2 @@
-review for midterm! <br>
-Q2 is ignored!
+Review for Midterm! <br>
+Q2 is IGNORED!
