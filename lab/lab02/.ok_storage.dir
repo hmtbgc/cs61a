@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 'composite_identity-correct', (0, 70)
 'cycle-correct', (512, 70)
+=======
+'composite_identity-correct', (0, 70)
+'cycle-correct', (512, 70)
+>>>>>>> ddbb84536f20388fc164521f241165b33e0d7435

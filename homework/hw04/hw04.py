@@ -236,14 +236,18 @@ def remove_all(link , value):
     <0 1>
     """
     "*** YOUR CODE HERE ***"
+<<<<<<< HEAD
 
     """
 
+=======
+>>>>>>> ddbb84536f20388fc164521f241165b33e0d7435
     empty = ()
     while link != empty and link.rest != empty:
         while link.rest != empty and link.rest.first == value:
             link.rest = link.rest.rest
         link = link.rest
+<<<<<<< HEAD
     """
 
     empty = ()
@@ -256,6 +260,8 @@ def remove_all(link , value):
         remove_all(link.rest, value)
 
 
+=======
+>>>>>>> ddbb84536f20388fc164521f241165b33e0d7435
 
 
 

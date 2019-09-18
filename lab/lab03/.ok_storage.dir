@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 'skip_add-correct', (0, 70)
 'hailstone-correct', (512, 70)
 'summation-correct', (1024, 70)
+=======
+'skip_add-correct', (0, 70)
+'hailstone-correct', (512, 70)
+'summation-correct', (1024, 70)
+>>>>>>> ddbb84536f20388fc164521f241165b33e0d7435

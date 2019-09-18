@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 'Card.__init__-correct', (0, 70)
 'Card.power-correct', (512, 70)
 'Player.__init__-correct', (1024, 70)
@@ -6,3 +7,13 @@
 'TutorCard.effect-correct', (2560, 70)
 'TACard.effect-correct', (3072, 70)
 'InstructorCard.effect-correct', (3584, 70)
+=======
+'Card.__init__-correct', (0, 70)
+'Card.power-correct', (512, 70)
+'Player.__init__-correct', (1024, 70)
+'Player.draw-correct', (1536, 70)
+'Player.play-correct', (2048, 70)
+'TutorCard.effect-correct', (2560, 70)
+'TACard.effect-correct', (3072, 70)
+'InstructorCard.effect-correct', (3584, 70)
+>>>>>>> ddbb84536f20388fc164521f241165b33e0d7435

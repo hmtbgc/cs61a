@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 'both_positive-correct', (0, 70)
 'sum_digits-correct', (512, 70)
 'falling-correct', (1024, 70)
 'double_eights-correct', (1536, 70)
+=======
+'both_positive-correct', (0, 70)
+'sum_digits-correct', (512, 70)
+'falling-correct', (1024, 70)
+'double_eights-correct', (1536, 70)
+>>>>>>> ddbb84536f20388fc164521f241165b33e0d7435

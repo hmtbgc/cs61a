@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 'Mint-correct', (0, 70)
 'VendingMachine-correct', (512, 70)
 'generate_paths-correct', (1024, 70)
+=======
+'Mint-correct', (0, 70)
+'VendingMachine-correct', (512, 70)
+'generate_paths-correct', (1024, 70)
+>>>>>>> ddbb84536f20388fc164521f241165b33e0d7435

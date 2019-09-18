@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 'link_to_list-correct', (0, 70)
 'cumulative_sum-correct', (512, 70)
 'has_cycle-correct', (1024, 70)
 'has_cycle_constant-correct', (1536, 70)
+=======
+'link_to_list-correct', (0, 70)
+'cumulative_sum-correct', (512, 70)
+'has_cycle-correct', (1024, 70)
+'has_cycle_constant-correct', (1536, 70)
+>>>>>>> ddbb84536f20388fc164521f241165b33e0d7435
